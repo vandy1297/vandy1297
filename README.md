@@ -4,7 +4,7 @@
 > ### 🌎 a little bit about me:
 - 👩🏻‍💻 i'm a **Data Scientist**
 - 👩‍🎓 freshly graduated with **Master's degree** in **Computer Science**
-- 🫶🏻 highly passionate about: **Predictive Analytics** and **Data Visualization**
+- ❤️ highly passionate about: **Predictive Analytics** and **Data Visualization**
 - 🙋🏻‍♀️ what i am upto: currently learning **Product Management** & getting my **CSPO Certification**
 - 👀 i am also a **Full Stack Engineer** who loves to build interactive experiences that live on the web.
 - 📫 currently **open to job opportunities**. Drop a message to vxm6764@mavs.uta.edu

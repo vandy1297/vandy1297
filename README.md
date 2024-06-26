@@ -47,7 +47,7 @@
 > ### 📫 connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vandy1297)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vandhana-m/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://vandhanamanivannan.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About&logoColor=white)](https://vandhanamanivannan.github.io/)
 
 <br> 
 

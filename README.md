@@ -7,7 +7,7 @@
 - ❤️ highly passionate about: **Predictive Analytics** and **Data Visualization**
 - 🙋🏻‍♀️ what i am upto: currently learning **Product Management** & getting my **CSPO Certification**
 - 👀 i am also a **Full Stack Engineer** who loves to build interactive experiences that live on the web.
-- 📫 currently **open to job opportunities**. Drop a message to vxm6764@mavs.uta.edu
+- 📫 currently **open to job opportunities**. Drop a message to vandhana1297@gmail.com
 
 <br>
 

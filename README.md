@@ -21,7 +21,7 @@
 <br>
 
 > ### 🚀 if you want to know more about me:
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About&logoColor=white)](https://vandhanamanivannan.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About&logoColor=white)](https://vandy1297.github.io/)
 
  <br>
 
